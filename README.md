@@ -57,4 +57,4 @@ Instructions will be added once the capture pipeline is functional.
 
 ## License
 
-MIT.
+MIT
